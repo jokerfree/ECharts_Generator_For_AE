@@ -1,0 +1,2 @@
+# ECharts_Generator_For_AE
+中文版AE脚本，一键生成Echarts格式图表
