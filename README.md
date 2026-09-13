@@ -57,7 +57,10 @@
 | 23 | 扇区间隙 | 饼图 | 扇区之间留空隙 |
 
 > **切到任一饼图类型时**，会自动把该形态的推荐参数写回面板（半径/角度/玫瑰模式/标签位置）。柱状与折线类型**不会**自动改你的参数。
-
+> 示例图
+<img width="960" height="540" alt="柱状图示例" src="https://github.com/user-attachments/assets/cf620912-03c5-4bef-bf6d-6773cd74b21e" />
+<img width="960" height="540" alt="折线图示例" src="https://github.com/user-attachments/assets/8bb8b0df-b676-4d08-b6de-96a5db2fc384" />
+<img width="960" height="540" alt="饼图示例" src="https://github.com/user-attachments/assets/cae78f72-8cae-45a7-83ee-87aa6b72fd45" />
 ---
 
 ## 三、各页参数详解
